@@ -2,7 +2,8 @@
 A seven segment display backpack, for chainable 2 pin driving.
 
 You can use the standard Arduino shiftOut function to enable the segments.
-the segment bits are: 
+the segment bits are:
+
  0. G
  1. F
  2. A
