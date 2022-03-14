@@ -1,7 +1,7 @@
 # OneByOne_7Segment_0.8
 A seven segment display backpack, for chainable 2 pin driving.
 
-You can use the standard Arduino shiftOut function to enable the segments.
+You can use the standard Arduino shiftOut function to enable the segments but for 16mhz microcontrollers I suggest to use the hardware SPI functions.
 the segment bits are:
 
  0. G
