@@ -1,4 +1,4 @@
-# OneByOne 7Segment 0.8"
+# OneByOne 0.8" 7Segment
 A seven segment display backpack, for chainable 2 pin driving.
 pins:
 
