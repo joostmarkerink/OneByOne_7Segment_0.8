@@ -13,4 +13,4 @@ the segment bits are:
  6. D
  7. E
 
-![labeled display](https://commons.wikimedia.org/wiki/File:7_Segment_Display_with_Labeled_Segments.svg)
+![labeled display](https://upload.wikimedia.org/wikipedia/commons/e/ed/7_Segment_Display_with_Labeled_Segments.svg)
