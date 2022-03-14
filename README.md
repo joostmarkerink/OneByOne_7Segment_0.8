@@ -12,13 +12,4 @@ The segments have a current limiting resistor of 150 ohms. So they are bright an
 You can use the standard Arduino shiftOut function to enable the segments but for 16mhz microcontrollers I suggest to use the hardware SPI functions.
 the segment bits are:
 
- 0. G
- 1. F
- 2. A
- 3. B
- 4. DP
- 5. C
- 6. D
- 7. E
-
-![labeled display](https://upload.wikimedia.org/wikipedia/commons/e/ed/7_Segment_Display_with_Labeled_Segments.svg)
+![labeled display](https://joostmarkerink.nl/projects/content/segments.png)
