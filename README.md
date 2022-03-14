@@ -12,3 +12,5 @@ the segment bits are:
  5. C
  6. D
  7. E
+
+![labeled display](https://commons.wikimedia.org/wiki/File:7_Segment_Display_with_Labeled_Segments.svg)
