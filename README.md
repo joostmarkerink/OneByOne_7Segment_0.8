@@ -7,7 +7,7 @@ pins:
 3. clock:  up to 100mhz pulse
 4. data : is pulled down
 
-The segments have a current limiting resistor of 150 ohms. So they are bright and can be powered by 5 volts.
+The segments have a current limiting resistor of 150 ohms. So they are bright and can be powered by 5 volts but works perfectly with lower voltages.
 
 You can use the standard Arduino shiftOut function to enable the segments but for 16mhz microcontrollers I suggest to use the hardware SPI functions.
 the segment bits are:
