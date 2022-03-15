@@ -1,6 +1,10 @@
 # OneByOne 0.8" 7Segment
 A seven segment display backpack, for chainable 2 pin driving.
-pins:
+
+the display used: SM420806 https://joostmarkerink.nl/projects/content/SM420806N-8.pdf
+the IC used: 74HC164D https://assets.nexperia.com/documents/data-sheet/74HC_HCT164.pdf
+
+module pins:
 
 1. VCC  : 2 - 5 volt
 2. GND  : ground
